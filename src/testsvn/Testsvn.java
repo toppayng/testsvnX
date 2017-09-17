@@ -18,6 +18,11 @@ public class Testsvn {
         // TODO code application logic here
         
         System.out.println("GIMS");
+        
+        for(int k =0;k< 100;k++){
+            System.out.println(k);
+        }
+        
     }
     
 }
